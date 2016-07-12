@@ -14,5 +14,3 @@ def caesar_cipher(str, key)
 	end
 	rev_str_arr.join
 end
-
-caesar_cipher("What a string!", 5)
